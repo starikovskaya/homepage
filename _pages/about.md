@@ -15,6 +15,7 @@ I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optim
 Contact information
 ======
 **E-mail:** [tat.starikovskaya@gmail.com](mailto:tat.starikovskaya@gmail.com)
+  
 **Where to find me:** 45 rue d'Ulm, Paris, France
 
 Short bio
