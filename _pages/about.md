@@ -15,6 +15,7 @@ I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optim
 Contact information
 ======
 **E-mail:** [tat.starikovskaya@gmail.com](mailto:tat.starikovskaya@gmail.com)
+
 **Where to find me:** 45 rue d'Ulm, Paris, France
 
 Short bio
@@ -29,14 +30,19 @@ Short bio
 Selected publications
 ======
 1. [Approximate Hamming distance in a stream](http://www.eatcs.org/icalp2016/20/paper.pdf) *with R. Clifford*
+
 International Colloquium on Automata, Languages and Programming (**ICALP** 2016)
 2. [The k-mismatch problem revisited](http://dl.acm.org/citation.cfm?id=2884577) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*
+
 ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016)
 3. [Dictionary Matching in a Stream](http://link.springer.com/chapter/10.1007%2F978-3-662-48350-3_31) *with R. Clifford, A. Fontaine, E. Porat, B. Sach* 
+
 European Symposium on Algorithms (**ESA** 2015)
 4. [Wavelet Trees Meet Suffix Trees](http://dl.acm.org/citation.cfm?id=2722168) *with M. Babenko, P. Gawrychowski, T. Kociumaka* 
+
 ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015)
 6. [Sublinear Space Algorithms for the Longest Common Substring Problem.](http://link.springer.com/chapter/10.1007%2F978-3-662-44777-2_50) *with T. Kociumaka and H. W. Vildhøj*
+
 European Symposium on Algorithms (**ESA** 2014)
 
 Programme committee work
