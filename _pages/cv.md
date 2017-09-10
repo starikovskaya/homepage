@@ -29,6 +29,8 @@ redirect_from:
 </ul>
 <h3>Programme committees</h3>
 <ul>
+	<li><strong>2017</strong> <a href="http://cpm2017.mimuw.edu.pl/" target="_blank">28th Annual Symposium on Combinatorial Pattern Matching</a>
+	<li><strong>2017</strong> <a href="http://pages.di.unipi.it/spire2017/" target="_blank">24th International Symposium on String Processing and Information Retrieval</a>
 	<li><strong>2016</strong> <a href="http://iwoca2016.cs.helsinki.fi/" target="_blank">27th International Workshop on Combinatorial Algorithms</a>
 	<li><strong>2016</strong> <a href="http://logic.pdmi.ras.ru/csr2016/" target="_blank">11th International Computer Science Symposium in Russia</a></li>
 	<li><strong>2015</strong> <a href="http://www.dcs.kcl.ac.uk/events/spire2015/workshops.html" target="_blank">22nd International Symposium on String Processing and Information Retrieval</a></li>
