@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tatiana Starikovskaya"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,6 @@ redirect_from:
 About me
 ======
 I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optimization) team](https://www.di.ens.fr/TalgoTeam.html.en) at École normale supérieure, Paris, France. I am interested in algorithms on strings, small-space algorithms and data structures, streaming algorithms, property testing algorithms, lower bounds, and communication complexity.
-
-Contact information
-======
-**E-mail:** [tat.starikovskaya@gmail.com](mailto:tat.starikovskaya@gmail.com)<br>
-**Where to find me:** 45 rue d'Ulm, Paris, France ([map](http://www.di.ens.fr/AccesDI.html.en))
 
 Short bio
 ======
