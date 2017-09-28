@@ -13,12 +13,14 @@ redirect_from:
 <tr>
 <td></td>
 <td>
+
 <h3>Education</h3>
 <ul>
 	<li><strong>2009 - 2012</strong> PhD at the Lomonosov Moscow State University and in the Laboratoire d'Informatique Gaspard-Monge at the University Paris-Est Marne-la-Vallée, Paris, France (Advisors: <a title="A.L. Semenov on the site of Russian Academy of Science" href="http://www.ras.ru/win/db/show_per.asp?P=.id-57919.ln-ru">Alexey Lvovich Semenov</a>, <a href="http://www-igm.univ-mlv.fr/~koutcher/">Gregory Kucherov</a>).</li>
 	<li><strong>2008-2009 </strong><a href="http://shad.yandex.ru/">Yandex School on Data Analysis</a>, Moscow, Russia (Master program).</li>
 	<li><strong>2004-2009 </strong>Undergraduate studies at Lomonosov Moscow State University, Moscow, Russia (Advisor: <a title="A.L. Semenov on the site of Russian Academy of Science" href="http://www.ras.ru/win/db/show_per.asp?P=.id-57919.ln-ru">Alexey Lvovich Semenov</a>).</li>
 </ul>
+	
 <h3>Professional Experience</h3>
 <ul>
 	<li><strong>2013-2015</strong> Research Associate under Raphaël Clifford, University of Bristol
@@ -27,6 +29,7 @@ redirect_from:
 	<li><strong>2008-2011</strong> Junior software developer at Yandex LLC.</li>
 	<li><strong>2006-2013</strong> Teacher of mathematics</li>
 </ul>
+
 <h3>Programme committees</h3>
 <ul>
 	<li><strong>2017</strong> <a href="http://cpm2017.mimuw.edu.pl/" target="_blank">28th Annual Symposium on Combinatorial Pattern Matching</a>
