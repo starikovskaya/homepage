@@ -14,12 +14,17 @@ I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optim
 
 Short bio
 ======
-* B.Sc. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2009
-* Ph.D. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2013
-* Assistant Professor, Department of Computer Science, Higher School of Economics, Moscow, Russia, 2013-1015
-* Research Associate, University of Bristol, Bristol, UK, 2015-2016
-* Postdoc, Université Paris-Diderot, Paris, France, 2016-2017
 * Assistant Professor, École normale supérieure, Paris, France, 2017-up to date
+* Postdoc, Université Paris-Diderot, Paris, France, 2016-2017
+* Research Associate, University of Bristol, Bristol, UK, 2015-2016
+* Assistant Professor, Department of Computer Science, Higher School of Economics, Moscow, Russia, 2013-1015
+* Ph.D. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2013
+* M.Sc. in Data Science, Moscow Institute of Physics and Technology and Yandex School of Data Analysis, Moscow, Russia, 2009
+* M.Sc. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2009
+
+Programme committee work
+======
+In the past, I was on the following program committees: [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/) [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
 
 Selected publications
 ======
@@ -33,8 +38,5 @@ Selected publications
 
 5. [Sublinear Space Algorithms for the Longest Common Substring Problem.](http://link.springer.com/chapter/10.1007%2F978-3-662-44777-2_50) *with T. Kociumaka and H. W. Vildhøj*, in European Symposium on Algorithms (**ESA** 2014)
 
-Programme committee work
-======
-In the past, I was on the following program committees: [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/) [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
 
 
