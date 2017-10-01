@@ -4,3 +4,5 @@ main:
   - title: "CV"
     url: /cv/   
     
+  - title: "Macaron Bot"
+    url: /macaronbot/      
