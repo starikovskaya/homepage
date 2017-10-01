@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optimization) team](https://www.di.ens.fr/TalgoTeam.html.en) at École normale supérieure, Paris, France. I am interested in algorithms on strings, small-space algorithms and data structures, streaming algorithms, property testing algorithms, lower bounds, and communication complexity.
+I am an Assistant Professor in the [Talgo (Theory, ALgorithms, Graphs, and Optimization) team](https://www.di.ens.fr/TalgoTeam.html.en) at the Computer Science Department of École normale supérieure, Paris, France. I am interested in algorithms on strings, small-space algorithms and data structures, streaming algorithms, property testing algorithms, lower bounds, and communication complexity.
 
 Short bio
 ======
