@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
     
   - title: "CV"
@@ -7,5 +7,5 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "MacaronBot"
+  - title: "Macaron Bot"
     url: /macaronbot/      
