@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **2009 - 2012** PhD at the Lomonosov Moscow State University and in the Laboratoire d'Informatique Gaspard-Monge at the University Paris-Est Marne-la-Vallée, Paris, France (Advisors: <a title="A.L. Semenov on the site of Russian Academy of Science" href="http://www.ras.ru/win/db/show_per.asp?P=.id-57919.ln-ru">Alexey Lvovich Semenov</a>, <a href="http://www-igm.univ-mlv.fr/~koutcher/">Gregory Kucherov</a>).
+* **2009-2012** PhD at the Lomonosov Moscow State University and in the Laboratoire d'Informatique Gaspard-Monge at the University Paris-Est Marne-la-Vallée, Paris, France (Advisors: <a title="A.L. Semenov on the site of Russian Academy of Science" href="http://www.ras.ru/win/db/show_per.asp?P=.id-57919.ln-ru">Alexey Lvovich Semenov</a>, <a href="http://www-igm.univ-mlv.fr/~koutcher/">Gregory Kucherov</a>).
 * **2008-2009** <a href="http://shad.yandex.ru/">Yandex School on Data Analysis</a>, Moscow, Russia (Master program).
 * **2004-2009** Undergraduate studies at Lomonosov Moscow State University, Moscow, Russia (Advisor: <a title="A.L. Semenov on the site of Russian Academy of Science" href="http://www.ras.ru/win/db/show_per.asp?P=.id-57919.ln-ru">Alexey Lvovich Semenov</a>).
 	
