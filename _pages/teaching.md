@@ -7,7 +7,7 @@ author_profile: true
 
 ## École Normale Supérieure (Paris, France)
 ### Spring 2018
-* Initiation à la Programmation pour pour Non-informaticiens (Programming for Non-computer Scientists) 
+* Initiation à la Programmation pour Non-informaticiens (Introduction to Programming for Non-computer scientists)
 
 ### Fall 2017
 * [Algorithmique et Programmation (Algorithms and Programming)](https://moodle.di.ens.fr/course/view.php?id=2)
@@ -18,10 +18,10 @@ author_profile: true
 
 ## Higher School of Economics (Moscow, Russia)
 ### Fall 2014
-* Algorithms on strings and their applications
+* Algorithms on Strings and their Applications
 * Discrete Mathematics
 * Introduction to Linear Algebra for Neuroscientists
 * Introduction to Calculus for Neuroscientists
 
 ### Fall 2013 
-* Algorithms on strings and their applications
+* Algorithms on Strings and their Applications
