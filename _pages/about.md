@@ -28,7 +28,7 @@ In the past, I was on the following program committees: [CPM 2017](http://cpm201
 
 Selected publications
 ======
-1. [Improved bounds for testing Dyck languages](https://arxiv.org/abs/1707.06606) *with E.Fischer and F. Magniez*, accepted to ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018) 
+1. [Improved bounds for testing Dyck languages](https://arxiv.org/abs/1707.06606) *with E. Fischer and F. Magniez*, accepted to ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018) 
 
 2. [Approximate Hamming distance in a stream](http://www.eatcs.org/icalp2016/20/paper.pdf) *with R. Clifford*, in International Colloquium on Automata, Languages and Programming (**ICALP** 2016)
 
