@@ -1,5 +1,4 @@
 ---
-layout: 
 title: ""
 permalink: /teaching/
 author_profile: true
