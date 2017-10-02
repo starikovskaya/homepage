@@ -7,10 +7,10 @@ author_profile: true
 
 ## École Normale Supérieure (Paris, France)
 ### Spring 2018
-* Initiation à la Programmation pour Non-informaticiens (Introduction to Programming for Non-computer scientists)
+* Introduction to Programming for Non-Computer Scientists
 
 ### Fall 2017
-* [Algorithmique et Programmation (Algorithms and Programming)](https://moodle.di.ens.fr/course/view.php?id=2)
+* [Algorithms and Programming](https://moodle.di.ens.fr/course/view.php?id=2)
 
 ## Computer Science club (Saint-Petersburg, Russia)
 ### Spring 2014
