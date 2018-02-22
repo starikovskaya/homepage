@@ -26,6 +26,7 @@ Professional Experience
 
 Programme committees
 ======
+* **2018** <a href="http://cpm2018.sdu.edu.cn/" target="_blank">29th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2017** <a href="http://cpm2017.mimuw.edu.pl/" target="_blank">28th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2017** <a href="http://pages.di.unipi.it/spire2017/" target="_blank">24th International Symposium on String Processing and Information Retrieval</a>
 * **2016** <a href="http://iwoca2016.cs.helsinki.fi/" target="_blank">27th International Workshop on Combinatorial Algorithms</a>
@@ -44,6 +45,8 @@ Organising committees
 
 Awards and Grants
 ======
+* **2018** PI, JCJC grant of INS2I, "Exact and Approximate String Similarity Search" 
+* **2017** Foundation for Polish Science project under Homing programme, "Algorithms for Text Processing with Errors and Uncertainties"
 * **2014** Rector's grant of Higher School of Economics
 * **2013-2014** Young Faculty Support Program
 * **2013** <a href="http://www.dynastyfdn.com/english/news/166" target="_blank">Winner of the 2012 Young Mathematician Competition</a>
@@ -56,7 +59,7 @@ Awards and Grants
 
 Summer Schools
 ======
-* **2014** MADALGO summer school on streaming algorithms</li>
+* **2014** MADALGO summer school on streaming algorithms
 * **2013** <a href="http://almada2013.ru/" target="_blank">Microsoft School on Algorithms for Massive Data</a>
 * **2010** <a href="http://logic.pdmi.ras.ru/midas/en">Microsoft Data Structures and Algorithms School</a>
 * **2009** <a href="http://logic.pdmi.ras.ru/ssct09/">NoNA Summer School on Complexity Theory</a>
