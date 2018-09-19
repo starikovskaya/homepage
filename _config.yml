@@ -83,7 +83,7 @@ author:
   bio              : "Assistant Professor </br> (Maître de Conférences)"
   location         : "ENS Paris"
   employer         :
-  googlescholar    : 
+  googlescholar    : https://scholar.google.ru/citations?user=xopb6VIAAAAJ&hl=ru&oi=sra
   email            : "tat.starikovskaya@gmail.com"
   uri              :
   bitbucket        :
@@ -110,7 +110,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : https://dblp.uni-trier.de/pers/hd/s/Starikovskaya:Tatiana_A=
 
 
 # Reading Files
