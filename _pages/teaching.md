@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## École Normale Supérieure (Paris, France)
+### Fall 2018
+* [Algorithms and Programming](https://moodle.di.ens.fr/course/view.php?id=2)
+
 ### Spring 2018
 * [Introduction to Programming for Non-Computer Scientists](https://moodle.di.ens.fr/course/view.php?id=5)
 
