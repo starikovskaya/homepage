@@ -28,17 +28,19 @@ In the past, I was on the following program committees: [CPM 2018](http://cpm201
 
 Selected publications
 ======
-1. [Improved bounds for testing Dyck languages](https://arxiv.org/abs/1707.06606) *with E. Fischer and F. Magniez*, accepted to ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018) 
+1. [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019)
 
-2. [Approximate Hamming distance in a stream](http://www.eatcs.org/icalp2016/20/paper.pdf) *with R. Clifford*, in International Colloquium on Automata, Languages and Programming (**ICALP** 2016)
+2. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, accepted to ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018) 
 
-3. [The k-mismatch problem revisited](http://dl.acm.org/citation.cfm?id=2884577) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016)
+3. [Approximate Hamming distance in a stream](http://drops.dagstuhl.de/opus/volltexte/2016/6299/) *with R. Clifford*, in International Colloquium on Automata, Languages and Programming (**ICALP** 2016)
 
-4. [Dictionary Matching in a Stream](http://link.springer.com/chapter/10.1007%2F978-3-662-48350-3_31) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in European Symposium on Algorithms (**ESA** 2015)
+4. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016)
 
-5. [Wavelet Trees Meet Suffix Trees](http://dl.acm.org/citation.cfm?id=2722168) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015)
+5. [Dictionary Matching in a Stream](http://link.springer.com/chapter/10.1007%2F978-3-662-48350-3_31) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in European Symposium on Algorithms (**ESA** 2015)
 
-6. [Sublinear Space Algorithms for the Longest Common Substring Problem.](http://link.springer.com/chapter/10.1007%2F978-3-662-44777-2_50) *with T. Kociumaka and H. W. Vildhøj*, in European Symposium on Algorithms (**ESA** 2014)
+6. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015)
+
+7. [Sublinear Space Algorithms for the Longest Common Substring Problem.](http://link.springer.com/chapter/10.1007%2F978-3-662-44777-2_50) *with T. Kociumaka and H. W. Vildhøj*, in European Symposium on Algorithms (**ESA** 2014)
 
 
 
