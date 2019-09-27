@@ -24,7 +24,7 @@ Short bio
 
 Programme committee work
 ======
-In the past, I was on the following program committees: [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
+In the past, I was on the following program committees: [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
 
 Selected publications
 ======
