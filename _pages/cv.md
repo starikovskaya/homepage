@@ -26,6 +26,8 @@ Professional Experience
 
 Programme committees
 ======
+* **2019** <a href="https://www.siam.org/Conferences/CM/Conference/sosa20" target="_blank">SIAM Symposium on Simplicity in Algorithms</a>
+* **2019** <a href="http://cpm2019.di.unipi.it/" target="_blank">30th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2018** <a href="http://cpm2018.sdu.edu.cn/" target="_blank">29th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2017** <a href="http://cpm2017.mimuw.edu.pl/" target="_blank">28th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2017** <a href="http://pages.di.unipi.it/spire2017/" target="_blank">24th International Symposium on String Processing and Information Retrieval</a>
