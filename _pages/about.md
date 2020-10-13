@@ -22,6 +22,11 @@ Short bio
 * M.Sc. in Data Science, Moscow Institute of Physics and Technology and Yandex School of Data Analysis, Moscow, Russia, 2009
 * M.Sc. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2009
 
+Ph.D. supervision
+======
+
+I am currently co-supervising [G. Gourdel](https://garance.cat/) with [P. Peterlongo](http://people.rennes.inria.fr/Pierre.Peterlongo/).  
+
 Programme committee work
 ======
 I am co-chairing [CPM 2020](http://cpm2021.ii.uni.wroc.pl/) with P. Gawrychowski.
