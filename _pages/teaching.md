@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ## École Normale Supérieure (Paris, France)
-### Fall 2019
 * [Algorithms and Programming](https://moodle.ens.psl.eu/course/view.php?id=999)
 
 * [Introduction to Programming for Non-Computer Scientists](https://moodle.ens.psl.eu/course/view.php?id=998)
