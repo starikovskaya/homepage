@@ -36,15 +36,18 @@ I was honored to serve on the program committees of: [ICALP 2020](https://icalp2
 
 Selected publications
 ======
-1. [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in **STOC** 2020
+1. [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in the ACM Symposium on Theory of Computing (**STOC** 2020).
 
-2. [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in **SODA** 2019
+2. [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019).
 
-3. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in **SODA** 2018 
+3. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in 
+the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018). 
 
-4. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in **SODA** 2016
+4. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in the 
+ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016).
 
-5. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in **SODA** 2015
+5. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in the 
+ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015).
 
 
 
