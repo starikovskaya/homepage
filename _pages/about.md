@@ -24,23 +24,21 @@ Short bio
 
 Programme committee work
 ======
-In the past, I was on the following program committees: [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
+I am co-chairing [CPM 2020](http://cpm2021.ii.uni.wroc.pl/) with P. Gawrychowski.
+
+In the past, I was on the following program committees: [ICALP 2020](https://icalp2020.saarland-informatics-campus.de/), [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/)
 
 Selected publications
 ======
-1. [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019)
+1. [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in **STOC** 2020
 
-2. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, accepted to ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018) 
+2. [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in **SODA** 2019
 
-3. [Approximate Hamming distance in a stream](http://drops.dagstuhl.de/opus/volltexte/2016/6299/) *with R. Clifford*, in International Colloquium on Automata, Languages and Programming (**ICALP** 2016)
+3. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in **SODA** 2018 
 
-4. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016)
+4. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in **SODA** 2016
 
-5. [Dictionary Matching in a Stream](http://link.springer.com/chapter/10.1007%2F978-3-662-48350-3_31) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in European Symposium on Algorithms (**ESA** 2015)
-
-6. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015)
-
-7. [Sublinear Space Algorithms for the Longest Common Substring Problem.](http://link.springer.com/chapter/10.1007%2F978-3-662-44777-2_50) *with T. Kociumaka and H. W. Vildhøj*, in European Symposium on Algorithms (**ESA** 2014)
+5. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in **SODA** 2015
 
 
 
