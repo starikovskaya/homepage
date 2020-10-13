@@ -6,19 +6,9 @@ author_profile: true
 
 ## École Normale Supérieure (Paris, France)
 ### Fall 2019
-* [Algorithms and Programming](https://moodle.di.ens.fr/course/view.php?id=2)
+* [Algorithms and Programming](https://moodle.ens.psl.eu/course/view.php?id=999)
 
-### Spring 2019
-* [Introduction to Programming for Non-Computer Scientists](https://moodle.di.ens.fr/course/view.php?id=5)
-
-### Fall 2018
-* [Algorithms and Programming](https://moodle.di.ens.fr/course/view.php?id=2)
-
-### Spring 2018
-* [Introduction to Programming for Non-Computer Scientists](https://moodle.di.ens.fr/course/view.php?id=5)
-
-### Fall 2017
-* [Algorithms and Programming](https://moodle.di.ens.fr/course/view.php?id=2)
+* [Introduction to Programming for Non-Computer Scientists](https://moodle.ens.psl.eu/course/view.php?id=998)
 
 ## Computer Science club (Saint-Petersburg, Russia)
 ### Spring 2014
