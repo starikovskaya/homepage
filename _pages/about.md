@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
 
 About me
@@ -17,7 +18,7 @@ Short bio
 * Assistant Professor, École normale supérieure, Paris, France, 2017-up to date
 * Postdoc, Université Paris-Diderot, Paris, France, 2016-2017
 * Research Associate, University of Bristol, Bristol, UK, 2015-2016
-* Assistant Professor, Department of Computer Science, Higher School of Economics, Moscow, Russia, 2013-1015
+* Assistant Professor, Department of Computer Science, Higher School of Economics, Moscow, Russia, 2013-2015
 * Ph.D. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2013
 * M.Sc. in Data Science, Moscow Institute of Physics and Technology and Yandex School of Data Analysis, Moscow, Russia, 2009
 * M.Sc. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2009
