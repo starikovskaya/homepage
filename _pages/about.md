@@ -29,9 +29,9 @@ I am currently co-supervising [G. Gourdel](https://garance.cat/) with [P. Peterl
 
 Programme committee work
 ======
-I am co-chairing [CPM 2020](http://cpm2021.ii.uni.wroc.pl/) with P. Gawrychowski.
+I am co-chairing [CPM 2021](http://cpm2021.ii.uni.wroc.pl/) with P. Gawrychowski.
 
-In the past, I was on the following program committees: [ICALP 2020](https://icalp2020.saarland-informatics-campus.de/), [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/).
+I was honored to serve on the program committees of: [ICALP 2020](https://icalp2020.saarland-informatics-campus.de/), [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/).
 
 Selected publications
 ======
