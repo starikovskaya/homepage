@@ -26,7 +26,9 @@ Professional Experience
 
 Programme committees
 ======
-* **2019** <a href="https://www.siam.org/Conferences/CM/Conference/sosa20" target="_blank">SIAM Symposium on Simplicity in Algorithms</a>
+* **2021** <a href="http://cpm2021.ii.uni.wroc.pl/" target="_blank"> 32nd Annual Symposium on Combinatorial Pattern Matching (chair)</a>
+* **2020** <a href="https://icalp2020.saarland-informatics-campus.de/" target="_blank">International Colloqium on Automata, Languagues, and Programming</a>
+* **2020** <a href="https://www.siam.org/Conferences/CM/Conference/sosa20" target="_blank">SIAM Symposium on Simplicity in Algorithms</a>
 * **2019** <a href="http://cpm2019.di.unipi.it/" target="_blank">30th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2018** <a href="http://cpm2018.sdu.edu.cn/" target="_blank">29th Annual Symposium on Combinatorial Pattern Matching</a>
 * **2017** <a href="http://cpm2017.mimuw.edu.pl/" target="_blank">28th Annual Symposium on Combinatorial Pattern Matching</a>
@@ -47,6 +49,7 @@ Organising committees
 
 Awards and Grants
 ======
+* **2021-2024** PI, ANR JCJC grant, "Approximation and Randomised String Processing"
 * **2018** PI, JCJC grant of INS2I, "Exact and Approximate String Similarity Search" 
 * **2017** Foundation for Polish Science project under Homing programme, "Algorithms for Text Processing with Errors and Uncertainties"
 * **2014** Rector's grant of Higher School of Economics
@@ -59,10 +62,3 @@ Awards and Grants
 * **2008** Kolmogorov Scholarship (for students of the Department of Mathematical Logic and Algorithms of MSU).
 * **2008** <a href="http://www.google.com/anitaborg/">The Google Anita Borg Memorial Scholarship</a> (Finalist).
 
-Summer Schools
-======
-* **2014** MADALGO summer school on streaming algorithms
-* **2013** <a href="http://almada2013.ru/" target="_blank">Microsoft School on Algorithms for Massive Data</a>
-* **2010** <a href="http://logic.pdmi.ras.ru/midas/en">Microsoft Data Structures and Algorithms School</a>
-* **2009** <a href="http://logic.pdmi.ras.ru/ssct09/">NoNA Summer School on Complexity Theory</a>
-* **2008** <a href="http://romip.ru/russir2008/eng/">Russian Summer School in Information Retrieval</a>
