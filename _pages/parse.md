@@ -21,6 +21,7 @@ impact on these fields.
 * **T. Starikovskaya (ENS Paris, Assistant Professor, PI)**
 * K. Swenson (LIRMM, Junior CNRS Researcher, member)
 
+## PhDs and Postdocs
 * G. Gourdel (PhD student, ENS Paris and U. Rennes)
 * **2-years postdoc position to fill, contact T. Starikovskaya for details**
 
