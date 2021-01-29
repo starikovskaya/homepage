@@ -30,7 +30,7 @@ I am currently co-supervising [G. Gourdel](https://garance.cat/) with [P. Peterl
 Current projects
 ======
 2021-2024 **PARSe** (ANR-20-CE48-0001): [Approximation and Randomised String Processing](), PI
-2020-2023 **AlgoriDAM** (ANR-19-CE48-0016): [Algorithmic theory of new data models](https://www.irif.fr/~algoridam/), participant
+2020-2023 **AlgoriDAM** (ANR-19-CE48-0016): [Algorithmic theory of new data models](https://www.irif.fr/~algoridam/)
 
 Programme committee work
 ======
