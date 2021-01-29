@@ -5,7 +5,7 @@ permalink: /parse/
 author_profile: true
 ---
 
-(PARSe, ANR-20-CE48-0001)
+![anr](logoANR.png) (PARSe, ANR-20-CE48-0001)
 
 In this project we aim to study the foundations of processing large-scale, noisy string data. Our goal is to understand the limit of
 computations, and to provide new ultra-efficient algorithms and data structures for processing such data, inspired by approaches in
@@ -32,6 +32,5 @@ TBA
 An integral part of the project is establishing a workshop on large-scale string processing co-organized by P. Gawrychoswki and T. Starikovskaya. The major goal of the workshop is to bridge the gap between researchers focusing on
 Algorithms on Strings and those working in the general area of algorithms and data structures for large-scale data processing. Details to follow.
 
-![anr](logoANR.png)
 
 
