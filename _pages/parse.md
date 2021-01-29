@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "PARSe"
+title: "Approximation and Randomised String Processing"
 permalink: /parse/
 author_profile: true
 ---
 
-#Approximation and Randomised String Processing
 (PARSe, ANR-20-CE48-0001)
 
 In this project we aim to study the foundations of processing large-scale, noisy string data. Our goal is to understand the limit of
