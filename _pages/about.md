@@ -22,10 +22,15 @@ Short bio
 * M.Sc. in Data Science, Moscow Institute of Physics and Technology and Yandex School of Data Analysis, Moscow, Russia, 2009
 * M.Sc. in Mathematics, Lomonosov Moscow State University, Moscow, Russia, 2009
 
-Ph.D. supervision
+PhD supervision
 ======
 
 I am currently co-supervising [G. Gourdel](https://garance.cat/) with [P. Peterlongo](http://people.rennes.inria.fr/Pierre.Peterlongo/).  
+
+Current projects
+======
+2021-2024 **PARSe** (ANR-20-CE48-0001): [Approximation and Randomised String Processing](), PI
+2020-2023 **AlgoriDAM** (ANR-19-CE48-0016): [Algorithmic theory of new data models](https://www.irif.fr/~algoridam/), participant
 
 Programme committee work
 ======
