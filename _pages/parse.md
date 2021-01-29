@@ -32,4 +32,6 @@ TBA
 An integral part of the project is establishing a workshop on large-scale string processing co-organized by P. Gawrychoswki and T. Starikovskaya. The major goal of the workshop is to bridge the gap between researchers focusing on
 Algorithms on Strings and those working in the general area of algorithms and data structures for large-scale data processing. Details to follow.
 
+![anr](logoANR.png)
+
 
