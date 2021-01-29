@@ -50,6 +50,7 @@ Organising committees
 Awards and Grants
 ======
 * **2021-2024** PI, ANR JCJC grant, "Approximation and Randomised String Processing"
+* **2020-2023** ANR PRC grant, "Algorithmic theory of new data models"
 * **2018** PI, JCJC grant of INS2I, "Exact and Approximate String Similarity Search" 
 * **2017** Foundation for Polish Science project under Homing programme, "Algorithms for Text Processing with Errors and Uncertainties"
 * **2014** Rector's grant of Higher School of Economics
