@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ![anr](logoANR.png) "Approximation and Randomised String Processing"
+title: ![anr](logoANR.png=20x) "Approximation and Randomised String Processing"
 permalink: /parse/
 author_profile: true
 ---
