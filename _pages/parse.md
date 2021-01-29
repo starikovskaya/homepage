@@ -33,4 +33,4 @@ An integral part of the project is establishing a workshop on large-scale string
 Algorithms on Strings and those working in the general area of algorithms and data structures for large-scale data processing. Details to follow.
 
 
-![anr](logoANR.png=20x)
+![anr](logoANR.png)
