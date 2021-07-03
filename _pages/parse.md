@@ -26,7 +26,7 @@ impact on these fields.
 * **2-years postdoc position to fill, contact T. Starikovskaya for details**
 
 ## Publications 
-TBA
+* <a href="https://drops.dagstuhl.de/opus/volltexte/2021/14188/">Property Testing of Regular Languages with Applications to Streaming Property Testing of Visibly Pushdown Languages</a> by G. Bathie, T. Starikovskaya. In ICALP 2021, pp. 119:1--119:17. 
 
 ## Workshop
 An integral part of the project is establishing a workshop on large-scale string processing co-organized by P. Gawrychoswki and T. Starikovskaya. The major goal of the workshop is to bridge the gap between researchers focusing on
