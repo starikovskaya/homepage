@@ -28,7 +28,10 @@ impact on these fields.
 ## Publications 
 * <a href="https://drops.dagstuhl.de/opus/volltexte/2021/14188/">Property Testing of Regular Languages with Applications to Streaming Property Testing of Visibly Pushdown Languages</a> by G. Bathie, T. Starikovskaya. In ICALP 2021, pp. 119:1--119:17. 
 * <a href="https://drops.dagstuhl.de/opus/volltexte/2021/14366/pdf/LIPIcs-WABI-2021-13.pdf"> Compressing and Indexing Aligned Readsets </a> by T. Gagie, G. Gourdel, G. Manzini. In WABI 2021, pp. 13:1--13:21.
-* Small space and streaming pattern matching with k edits by T. Kociumaka, E. Porat, and T. Starikovskaya. In FOCS 2021.
+* <a href="https://ieeexplore.ieee.org/document/9719798">Small space and streaming pattern matching with k edits</a> by T. Kociumaka, E. Porat, and T. Starikovskaya. In FOCS 2021.
+* <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.144">An Improved Algorithm for The k-Dyck Edit Distance Problem</a> by D. Fried, S. Golan, T. Kociumaka, T. Kopelowitz, E. Porat, T. Starikovskaya. In SODA 2022.
+* <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.30">Streaming Regular Expression Membership and Pattern Matching</a> by B. Dudek, P. Gawrychowski, G. Gourdel, T. Starikovskaya. In SODA 2022.
+
 
 ## Workshop
 An integral part of the project is establishing a workshop on large-scale string processing co-organized by P. Gawrychoswki and T. Starikovskaya. The major goal of the workshop is to bridge the gap between researchers focusing on
