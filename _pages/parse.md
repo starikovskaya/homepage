@@ -23,7 +23,8 @@ impact on these fields.
 
 ## PhDs and Postdocs
 * G. Gourdel (PhD student, ENS Paris and U. Rennes)
-* **2-years postdoc position to fill, contact T. Starikovskaya for details**
+* G. Bathie (PhD student, ENS Paris and U. Bordeaux)
+* **2-years postdoc position to fill, deadline October 31, 2022, see <a href="https://euraxess.ec.europa.eu/jobs/842793">offer</a>**
 
 ## Publications 
 * <a href="https://drops.dagstuhl.de/opus/volltexte/2021/14188/">Property Testing of Regular Languages with Applications to Streaming Property Testing of Visibly Pushdown Languages</a> by G. Bathie, T. Starikovskaya. In ICALP 2021, pp. 119:1--119:17. 
