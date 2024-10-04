@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## École Normale Supérieure (Paris, France)
-* [Algorithms and Programming](https://moodle.ens.psl.eu/course/view.php?id=999)
-
-* [Introduction to Programming for Non-Computer Scientists](https://moodle.ens.psl.eu/course/view.php?id=998)
+* [Algorithmique (L3 de DIENS)](https://diplome.di.ens.fr/catalog_fr.html#INFO-IN-PROGRA-S1)
+* Algorithmique et applications (L2 du CPES du PSL)
+* [Introduction to Programming for Non-Computer Scientists](https://diplome.di.ens.fr/catalog_fr.html#INFO-IN-PROGRA-S1)
 
 ## Computer Science club (Saint-Petersburg, Russia)
 ### Spring 2014
