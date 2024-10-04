@@ -40,13 +40,13 @@ I was honored to serve on the program committees of: STACS 2025, SeqBIM 2024, SP
 
 Selected publications
 ======
-1. Longest Common Extensions with Wildcards: Trade-Off and Applications *with G. Bathie, P. Charalampopoulos*. In the European Symposium n Algorithms (**ESA** 2024).
-2. Pattern Matching with Mismatches and Wildcards. *with G. Bathie, P. Charalampopoulos*. In the European Symposium n Algorithms (**ESA** 2024).
+1. [Longest Common Extensions with Wildcards: Trade-Off and Applications](https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.19/LIPIcs.ESA.2024.19.pdf) *with G. Bathie, P. Charalampopoulos*. In the European Symposium n Algorithms (**ESA** 2024).
+2. [Pattern Matching with Mismatches and Wildcards.](https://drops.dagstuhl.de/storage/00lipics/lipics-vol308-esa2024/LIPIcs.ESA.2024.20/LIPIcs.ESA.2024.20.pdf) *with G. Bathie, P. Charalampopoulos*. In the European Symposium n Algorithms (**ESA** 2024).
 3. [An Improved Algorithm for The k-Dyck Edit Distance Problem](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.144) *with D. Fried, S. Golan, T. Kociumaka, T. Kopelowitz, E. Porat*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2022).
 4. [Streaming Regular Expression Membership and Pattern Matching](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.30) *with B. Dudek, P. Gawrychowski, G. Gourdel*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2022).
 5. [Small space and streaming pattern matching with k edits](https://ieeexplore.ieee.org/document/9719798) *with T. Kociumaka and E. Porat*. In the Annual IEEE Symposium on Foundations of Computer Science (**FOCS** 2021).
 6.  [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in the ACM Symposium on Theory of Computing (**STOC** 2020).
-7.   Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019).
+7.   [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019).
 8. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018).
 9. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016).
 10. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in the 
