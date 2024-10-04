@@ -16,7 +16,6 @@ impact on these fields.
 
 ## Members
 * P. Gawrychowski (U. of Wrocław, Assistant Professor, member)
-* G. Kucherov (LIGM, Senior CNRS Researcher, external member)
 * P. Peterlongo (IRISA, Inria Research Associate, member)
 * **T. Starikovskaya (ENS Paris, Assistant Professor, PI)**
 * K. Swenson (LIRMM, Junior CNRS Researcher, member)
