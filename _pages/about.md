@@ -24,19 +24,25 @@ Short bio
 
 PhD supervision
 ======
+Current PhD students:
 
-I am currently co-supervising T. El Ghazi with Chien-Chung Huang and Gabriel Bathie with [N. Fijalkow](https://games-automata-play.com).  
+I am currently co-supervising T. El Ghazi with Chien-Chung Huang.
+
+Defended PhD students:
+
+Garance Gourdel (October 2023, co-supervised with P. Peterlongo)
+
+Gabriel Bathie (June 2025, co-supervised with N. Fijalkow) 
 
 Current projects
 ======
 2021-2025 **PARSe** (ANR-20-CE48-0001): [Approximation and Randomised String Processing](https://starikovskaya.github.io/homepage/parse/), PI<br>
-2020-2023 **AlgoriDAM** (ANR-19-CE48-0016): [Algorithmic theory of new data models](https://www.irif.fr/~algoridam/)
 
 Programme committee work
 ======
 I co-chaired [CPM 2021](http://cpm2021.ii.uni.wroc.pl/) with P. Gawrychowski.
 
-I was honored to serve on the program committees of: STACS 2025, SeqBIM 2024, SPIRE 2024, IWOCA 2024, SeqBIM 2023, ESA 2023, MFCS 2021, [ICALP 2020](https://icalp2020.saarland-informatics-campus.de/), [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/).
+I was honored to serve on the program committees of: SODA 2026, STACS 2025, SeqBIM 2024, SPIRE 2024, IWOCA 2024, SeqBIM 2023, ESA 2023, MFCS 2021, [ICALP 2020](https://icalp2020.saarland-informatics-campus.de/), [SOSA 2020](https://www.siam.org/Conferences/CM/Conference/sosa20), [CPM 2019](http://cpm2019.di.unipi.it/), [CPM 2018](http://cpm2018.sdu.edu.cn/), [CPM 2017](http://cpm2017.mimuw.edu.pl/), [SPIRE 2017](http://cpm2017.mimuw.edu.pl/), [IWOCA 2016](http://iwoca2016.cs.helsinki.fi), [CSR 2016](http://logic.pdmi.ras.ru/csr2016/), [SPIRE 2015](http://www.dcs.kcl.ac.uk/events/spire2015/), [CPM 2015](http://www.cpm2015.di.unisa.it), [CPM 2014](https://cpm2014.hse.ru/).
 
 Selected publications
 ======
@@ -51,6 +57,7 @@ Selected publications
 9. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016).
 10. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in the 
 ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015).
+11. Habilitation thesis, January 2026.
 
 
 
