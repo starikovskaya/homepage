@@ -46,18 +46,17 @@ I was honored to serve on the program committees of: SODA 2026, STACS 2025, SeqB
 
 Selected publications
 ======
-1. [Habilitation thesis](/files/hdr_starikovskaya.pdf), January 2026.
-2. Regular Languages in the Sliding Window Model. *with M. Ganardi, D. Hucke, M. Lohrey, K. Mamouras, T. Starikovskaya*. In
+1. Regular Languages in the Sliding Window Model. *with M. Ganardi, D. Hucke, M. Lohrey, K. Mamouras, T. Starikovskaya*. In
  TheoretiCS 4 (2025)
-3. Faster two-dimensional pattern matching with k mismatches. *with J. Ellert, P. Gawrychowski, A. Górkiewicz, T. Starikovskaya*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA 2025**): 4031-4060.
-4. An Improved Algorithm for The k-Dyck Edit Distance Problem. *with D. Fried, S. Golan, T. Kociumaka, T. Kopelowitz, E. Porat, T. Starikovskaya*. In ACM Trans. Algorithms 20(3): 26 (2024)
-5. [Streaming Regular Expression Membership and Pattern Matching](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.30) *with B. Dudek, P. Gawrychowski, G. Gourdel*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2022).
-6. [Small space and streaming pattern matching with k edits](https://ieeexplore.ieee.org/document/9719798) *with T. Kociumaka and E. Porat*. In the Annual IEEE Symposium on Foundations of Computer Science (**FOCS** 2021).
-7.  [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in the ACM Symposium on Theory of Computing (**STOC** 2020).
-8.   [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019).
-9. [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018).
-10. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016).
-11. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015).
+2. Faster two-dimensional pattern matching with k mismatches. *with J. Ellert, P. Gawrychowski, A. Górkiewicz, T. Starikovskaya*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA 2025**): 4031-4060.
+3. An Improved Algorithm for The k-Dyck Edit Distance Problem. *with D. Fried, S. Golan, T. Kociumaka, T. Kopelowitz, E. Porat, T. Starikovskaya*. In ACM Trans. Algorithms 20(3): 26 (2024)
+4. [Streaming Regular Expression Membership and Pattern Matching](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.30) *with B. Dudek, P. Gawrychowski, G. Gourdel*. In the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2022).
+5. [Small space and streaming pattern matching with k edits](https://ieeexplore.ieee.org/document/9719798) *with T. Kociumaka and E. Porat*. In the Annual IEEE Symposium on Foundations of Computer Science (**FOCS** 2021).
+6.  [All non-trivial variants of 3-LDT are equivalent.](https://dl.acm.org/doi/10.1145/3357713.3384275) *with B. Dudek and Paweł Gawrychowski*, in the ACM Symposium on Theory of Computing (**STOC** 2020).
+7.   [Lower bounds for text indexing with mismatches and differences.](https://epubs.siam.org/doi/10.1137/1.9781611975482.70) *with V. Cohen-Addad and L. Feuilloley*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2019).
+8.  [Improved bounds for testing Dyck languages](https://epubs.siam.org/doi/10.1137/1.9781611975031.100) *with E. Fischer and F. Magniez*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2018).
+9. [The k-mismatch problem revisited](https://epubs.siam.org/doi/10.1137/1.9781611974331.ch142) *with R. Clifford, A. Fontaine, E. Porat, B. Sach*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2016).
+10. [Wavelet Trees Meet Suffix Trees](https://epubs.siam.org/doi/10.1137/1.9781611973730.39) *with M. Babenko, P. Gawrychowski, T. Kociumaka*, in the ACM-SIAM Symposium on Discrete Algorithms (**SODA** 2015).
 
 
 
