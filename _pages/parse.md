@@ -23,7 +23,9 @@ impact on these fields.
 ## PhDs and Postdocs
 * G. Gourdel (PhD student, ENS Paris and U. Rennes)
 * G. Bathie (PhD student, ENS Paris and U. Bordeaux)
+* T. El Ghazi (PhD student, ENS Paris)
 * J. Ellert (Postdoc, ENS Paris)
+* Wojciech Janczewski (Postdoc, ENS Paris)
 
 ## Summer School and Workshop
 As a part of the project, we organised <a href="https://cpm2023.u-pem.fr/summer-school.html">the CPM summer school in 2023</a>  and a workshop <a href="https://conferences.cirm-math.fr/3086.html">"New Horizons of Stringology"</a> at Cirm in 2024. 
